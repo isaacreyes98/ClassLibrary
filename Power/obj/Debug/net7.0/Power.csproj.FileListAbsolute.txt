@@ -1,0 +1,12 @@
+C:\Users\Isaac Reyes\Desktop\ClassLibrary\Power\bin\Debug\net7.0\Power.deps.json
+C:\Users\Isaac Reyes\Desktop\ClassLibrary\Power\bin\Debug\net7.0\Power.dll
+C:\Users\Isaac Reyes\Desktop\ClassLibrary\Power\bin\Debug\net7.0\Power.pdb
+C:\Users\Isaac Reyes\Desktop\ClassLibrary\Power\obj\Debug\net7.0\Power.csproj.AssemblyReference.cache
+C:\Users\Isaac Reyes\Desktop\ClassLibrary\Power\obj\Debug\net7.0\Power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac Reyes\Desktop\ClassLibrary\Power\obj\Debug\net7.0\Power.AssemblyInfoInputs.cache
+C:\Users\Isaac Reyes\Desktop\ClassLibrary\Power\obj\Debug\net7.0\Power.AssemblyInfo.cs
+C:\Users\Isaac Reyes\Desktop\ClassLibrary\Power\obj\Debug\net7.0\Power.csproj.CoreCompileInputs.cache
+C:\Users\Isaac Reyes\Desktop\ClassLibrary\Power\obj\Debug\net7.0\Power.dll
+C:\Users\Isaac Reyes\Desktop\ClassLibrary\Power\obj\Debug\net7.0\refint\Power.dll
+C:\Users\Isaac Reyes\Desktop\ClassLibrary\Power\obj\Debug\net7.0\Power.pdb
+C:\Users\Isaac Reyes\Desktop\ClassLibrary\Power\obj\Debug\net7.0\ref\Power.dll
